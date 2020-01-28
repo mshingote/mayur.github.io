@@ -1,3 +1,15 @@
-<html>
-This is index page
+<!DOCTYPE html>
+<html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="description" content="Mayur Shingote's Resume">
+  <meta name="keywords" content="Software Engineer,Software Developer,Staff Software Engineer,C++,Golang,Python,AWS">
+  <meta name="author" content="Mayur Shingote">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, follow" />  
+  <title>Mayur's Resume</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url=https://github.com/mshingote/sangram-chavan.github.io/raw/master/resume.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
 </html>
